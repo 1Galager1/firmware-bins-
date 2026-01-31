@@ -1,0 +1,43 @@
+**Printer Model:** Ender 3 Pro
+
+**Motherboard:**
+- [ ] V4.2.2 (STM32F103)
+- [ ] V4.2.7 (STM32F103)
+- [ ] Other: _______________
+
+**Display Type:**
+- [X] 12864 LCD with knob (non-touch)
+- [ ] Touchscreen
+- [ ] Other: _______________
+
+**Bed Leveling Sensor:**
+- [X] CR Touch
+- [ ] BLTouch
+- [ ] None
+- [ ] Other: _______________
+
+**Extruder:**
+- [ ] Sprite Extruder (0.9° stepper)
+- [ ] Stock Creality Extruder
+- [X] Other: Sprite Extruder Pro (1.8 stepper)
+
+**Current   E-steps value:**
+- Factory default for Sprite: 424.9
+- My current setting: _______________
+
+**Build Volume:**
+- X: ___ mm (usually 220mm)
+- Y: ___ mm (usually 220mm)
+- Z: ___ mm (usually 250mm)
+
+**Stepper Drivers:**
+- [ ] TMC2208
+- [ ] TMC2209
+- [X] A4988
+- [ ] Unknown
+
+**Other Modifications:**
+- [ ] Direct Drive conversion
+- [ ] Different hotend
+- [ ] Different fans
+- [X] Other: CR Touch and Sprite Extruder Pro Kit
